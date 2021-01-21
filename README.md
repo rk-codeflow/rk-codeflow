@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/42111832/105277570-c108cc00-5bcb-11eb-949f-e36f6c7c274a.png)
+
 ### Hi there 👋
 
 <!--
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I am a frontEnd Designer willing to contribute on Open Source Projects. Currently learning CSS Grid. Will soon start learning React. I want to increase my online presence. Need helping hands on this matter.
