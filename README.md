@@ -11,5 +11,5 @@
 - 🙋‍♂️ I post tips & tricks regarding web development in LinkedIn. Feel free to follow me
 - ⚡ Fun fact: A Bibliophile, dog lover and tech enthusiast ...
 
-[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow)](https://github.com/anuraghazra/github-readme-stats)
 
