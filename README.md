@@ -10,8 +10,8 @@
 
 ## Check me out on these platforms
 * [Hashnode](https://letslearn.hashnode.dev/)
-* [YouTube] (https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
-* [LinkedIn] (https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+* [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
+* [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
 [![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow)](https://github.com/anuraghazra/github-readme-stats)
 
