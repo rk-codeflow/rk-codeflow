@@ -13,10 +13,10 @@
 * [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
 * [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
-[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow)](https://github.com/anuraghazra/github-readme-stats)
+[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow)](https://twitter.com/keeran_raaj)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow)](https://letslearn.hashnode.dev/)
 
 
