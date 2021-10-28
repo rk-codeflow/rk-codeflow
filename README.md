@@ -8,12 +8,14 @@
 - 🙋‍♂️ I post tips & tricks regarding web development in LinkedIn. Feel free to follow me.
 - ⚡ Fun fact: A Bibliophile, dog lover and tech enthusiast.
 
-<a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/dc80bb955c4f402ba8b8de6a878e2603.png?r=ep8" width="400" alt="Keeran Raaj's Dev Card"/></a>
+
 
 ## Check me out on these platforms
 * [Hashnode](https://letslearn.hashnode.dev/)
 * [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
 * [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+
+<a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/dc80bb955c4f402ba8b8de6a878e2603.png?r=ep8" width="400" alt="Keeran Raaj's Dev Card"/></a>
 
 [![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow)](https://twitter.com/keeran_raaj)
 
