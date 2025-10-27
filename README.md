@@ -1,12 +1,12 @@
 # Hi there 👋 I am < Raj />
-## I am an aspiring FrontEnd Developer💻
+## I am an aspiring FrontEnd Developer 💻
 
 - 🖥️ Evolved from Web Design to Frontend Development — continuously improving to turn ideas into interactive experiences.
 - ⚡ Fun fact: A Bibliophile, dog lover and tech enthusiast.
 - 🔪 My Tech Stacks are:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://letslearn.hashnode.dev/">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,tailwind,materialui,styledcomponents,git" />
   </a>
 </p>
