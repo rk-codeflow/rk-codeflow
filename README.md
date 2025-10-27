@@ -14,7 +14,7 @@
 
 <a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/dc80bb955c4f402ba8b8de6a878e2603.png?r=ep8" width="400" alt="Keeran Raaj's Dev Card"/></a>
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow&show_icons=true&theme=radical)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow&show_icons=true&theme=radical&hide=stars)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
