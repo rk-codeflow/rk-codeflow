@@ -16,11 +16,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://letslearn.hashnode.dev/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
-
-
-
-
-<a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/dc80bb955c4f402ba8b8de6a878e2603.png?r=ep8" width="400" alt="Keeran Raaj's Dev Card"/></a>
+<a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/v2/q4RXALVK8.png?type=default&r=t8d" width="356" alt="Raj Kiran Chaudhary's Dev Card"/></a>
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow&show_icons=true&theme=radical&hide=stars&rank_icon=github)
 
