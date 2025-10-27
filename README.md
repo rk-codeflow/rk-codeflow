@@ -8,7 +8,10 @@
 
 
 ## Check me out on these platforms
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://letslearn.hashnode.dev/)
+<a href="https://letslearn.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
+
 * [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
 * [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
