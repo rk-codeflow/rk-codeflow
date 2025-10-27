@@ -16,8 +16,8 @@
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow&show_icons=true&theme=radical&hide=stars&rank_icon=github)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&theme=radical&langs_count=7&layout=donut)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
 
