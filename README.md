@@ -19,6 +19,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow)](https://letslearn.hashnode.dev/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&theme=radical)
 
 
