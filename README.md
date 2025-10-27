@@ -9,9 +9,11 @@
 
 ## Check me out on these platforms
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://letslearn.hashnode.dev/) 
+<div align="center">
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://letslearn.hashnode.dev/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+</div>
 
 
 
