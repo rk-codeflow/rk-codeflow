@@ -8,10 +8,15 @@
 
 
 ## Check me out on these platforms
+<div align="center">
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://letslearn.hashnode.dev/)
+  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
-* [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
-* [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
+
+</div>
+
 
 <a href="https://app.daily.dev/formyapp"><img src="https://api.daily.dev/devcards/dc80bb955c4f402ba8b8de6a878e2603.png?r=ep8" width="400" alt="Keeran Raaj's Dev Card"/></a>
 
