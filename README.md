@@ -2,10 +2,14 @@
 ## I am an aspiring FrontEnd Developer💻
 
 - 🖥️ Evolved from Web Design to Frontend Development — continuously improving to turn ideas into interactive experiences.
-
 - ⚡ Fun fact: A Bibliophile, dog lover and tech enthusiast.
+- 🔪 My Tech Stacks are:
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## Check me out on these platforms
 
