@@ -1,14 +1,14 @@
 # Hi there 👋 I am < Raj />
 ## I am an aspiring FrontEnd Developer💻
 
-- 📫 You can reach me via Twitter, Linkedin and E-mail.
+- 🖥️ Evolved from Web Design to Frontend Development — continuously improving to turn ideas into interactive experiences.
 
 - ⚡ Fun fact: A Bibliophile, dog lover and tech enthusiast.
 
 
 
 ## Check me out on these platforms
-* [Hashnode](https://letslearn.hashnode.dev/)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 * [YouTube](https://www.youtube.com/channel/UCIwvSfnRVvB6NPApJZmLMeg)
 * [LinkedIn](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
@@ -16,7 +16,7 @@
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-codeflow&show_icons=true&theme=radical&hide=stars&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&theme=radical&langs_count=7&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-codeflow&theme=radical&langs_count=6&layout=donut)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk-codeflow)](https://www.linkedin.com/in/raj-kiran-chaudhary-3443abbb/)
 
